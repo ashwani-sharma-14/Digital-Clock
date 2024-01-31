@@ -1,3 +1,3 @@
 # Digital Clock and Date 
-# made by 
+# Made By 
 Ashwani Sharma
